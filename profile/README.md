@@ -1,6 +1,6 @@
 # m-biotech | Bioinformatics Consultancy
 
-### 🧬 Bridging the gap between raw NGS data and publication-ready insights.
+### Bridging the gap between raw NGS data and publication-ready insights.
 
 **m-biotech** provides end-to-end bioinformatic solutions for companies and research institutions. We specialize in building robust, scalable pipelines that transform raw sequencing data into actionable biological knowledge. From local infrastructure to cloud-based environments, we ensure your data flows seamlessly from the sequencer to your final publication.
 
@@ -36,13 +36,17 @@ I believe in **reproducibility** and **scalability**. My core workflow focuses o
 
 Explore my repositories categorized by application. Each project is tagged with specific metadata (e.g., *Platform, Read Type, Species*).
 
-### 🧬 DNA Analysis
+### 🧬 DNA-Seq Analysis
 *Focus on variant calling and genomic data. (Note: For clinical diagnostics, I recommend certified laboratory validation and genetic consultation).*
 * Work in progess
 
-### rna RNA-Seq Analysis
+### 🧬RNA-Seq Analysis
 *Specialized pipelines for transcriptomics across various sequencing technologies.*
-* [RNA quality check](https://github.com/m-biotech/rnaqualitycheck) 
+* [RNA quality check](https://github.com/m-biotech/rnaqualitycheck)
+
+### 🛠 Tools
+*Useful tools for bioinformatica analysis*
+* [Bioworkbench](https://github.com/m-biotech/bioworkbench)
 
 ---
 
