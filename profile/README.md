@@ -38,13 +38,11 @@ Explore my repositories categorized by application. Each project is tagged with 
 
 ### 🧬 DNA Analysis
 *Focus on variant calling and genomic data. (Note: For clinical diagnostics, I recommend certified laboratory validation and genetic consultation).*
-* [Link to DNA Project 1]
-* [Link to DNA Project 2]
+* Work in progess
 
 ### rna RNA-Seq Analysis
 *Specialized pipelines for transcriptomics across various sequencing technologies.*
-* [Link to RNA Project 1]
-* [Link to RNA Project 2]
+* [RNA quality check](https://github.com/m-biotech/rnaqualitycheck) 
 
 ---
 
