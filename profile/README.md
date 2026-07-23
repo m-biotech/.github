@@ -6,9 +6,9 @@
 
 ---
 
-## 🚀 What I Do
+## 🚀 What We Do
 
-I help you navigate the complexity of NGS data by providing professional consultancy and custom development services:
+We help you navigate the complexity of NGS data by providing professional consultancy and custom development services:
 
 *   **End-to-End Pipeline Development:** Custom workflows starting from raw FASTQ files to final RStudio tables/plots.
 *   **RNA-Seq Expertise:** Extensive experience with multiple platforms including **Illumina, MGI, and Oxford Nanopore**.
@@ -20,7 +20,7 @@ I help you navigate the complexity of NGS data by providing professional consult
 
 ## 🛠 Tech Stack & Methodology
 
-I believe in **reproducibility** and **scalability**. My core workflow focuses on:
+We believe in **reproducibility** and **scalability**. Our core workflow focuses on:
 
 *   **Workflow Management:** Nextflow (Primary)
 *   **Containerization:** Docker & Singularity
@@ -28,13 +28,13 @@ I believe in **reproducibility** and **scalability**. My core workflow focuses o
 *   **Cloud Platforms:** Google Cloud Platform (GCP), AWS
 *   **Analysis & Stats:** R (Bioconductor), Python
 
-**Workflow:** I typically work on **GCP** using client-provided buckets to ensure data security and high-performance computing. I offer **hourly consulting packages** for custom code development and pipeline engineering.
+**Workflow:** We typically work on **GCP** using client-provided buckets to ensure data security and high-performance computing. We offer **hourly consulting packages** for custom code development and pipeline engineering.
 
 ---
 
 ## 📂 Portfolio & Resources
 
-Explore my repositories categorized by application. Each project is tagged with specific metadata (e.g., *Platform, Read Type, Species*).
+Explore our repositories categorized by application. Each project is tagged with specific metadata (e.g., *Platform, Read Type, Species*).
 
 ### 🧬 DNA-Seq Analysis
 *Focus on variant calling and genomic data. (Note: For clinical diagnostics, I recommend certified laboratory validation and genetic consultation).*
@@ -52,6 +52,6 @@ Explore my repositories categorized by application. Each project is tagged with 
 
 ## 🤝 Let’s Collaborate
 
-Whether you need a one-off pipeline script, a full cloud infrastructure setup, or a long-term bioinformatics consultant, I am available to discuss your project.
+Whether you need a one-off pipeline script, a full cloud infrastructure setup, or a long-term bioinformatics consultant, We are available to discuss your project.
 
 📩 **Contact:** [giuseppemartone@ik.me](mailto:giuseppemartone@ik.me)
